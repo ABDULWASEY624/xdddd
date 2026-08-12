@@ -714,7 +714,7 @@ def main():
     print(f"\033[1;91m║  \033[1;93mThreads:  \033[1;97m{total_threads:,}")
     print(f"\033[1;91m║  \033[1;93mDuration: \033[1;97m{duration}s")
     print(f"\033[1;91m║  \033[1;93mMode:     \033[1;91mUNSTOPPABLE")
-    print(f"\033[1;91m║  \033[1;93mDeveloped By Invisible\033[1;91m")
+    print(f"\033[1;91m║  \033[1;93mDeveloped By Wasey !\033[1;91m")
     print(f"\033[1;91m╚════════════════════════════════════╝")
     print()
     
